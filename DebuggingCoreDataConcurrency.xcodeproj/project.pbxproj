@@ -125,9 +125,9 @@
 			isa = PBXGroup;
 			children = (
 				15D849691AE87E5A0020AAC3 /* User.swift */,
-				15D849621AE870910020AAC3 /* DebuggingCoreDataConcurrency.xcdatamodeld */,
 				15D849651AE871010020AAC3 /* CoreDataStack.swift */,
 				15D849671AE879500020AAC3 /* NSManagedObjectContext+RecursiveSave.swift */,
+				15D849621AE870910020AAC3 /* DebuggingCoreDataConcurrency.xcdatamodeld */,
 			);
 			path = CoreData;
 			sourceTree = "<group>";
@@ -433,6 +433,7 @@
 				15D8495D1AE870180020AAC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		15D8495E1AE870180020AAC3 /* Build configuration list for PBXNativeTarget "DebuggingCoreDataConcurrencyTests" */ = {
 			isa = XCConfigurationList;
@@ -441,6 +442,7 @@
 				15D849601AE870180020AAC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
